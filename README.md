@@ -1,1 +1,2 @@
-# Stock-trading
+chmod +x setup.sh
+./setup.sh

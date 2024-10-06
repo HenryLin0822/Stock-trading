@@ -1,0 +1,5 @@
+finlab
+yfinance
+pandas
+pandas_ta
+ta-lib
